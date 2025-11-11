@@ -2,6 +2,8 @@
 Xentrox DUxyzer - is project code repo for DUbrovački Hiperpoverzni Reduktor - first croatian link shortner
 intended for generations X, Y, Z of young users of network services.
 
+Why Dubrovački ? Because in 1486. Dubrovnik decided to build Kaše breakwater to shortner long chain linksthat werte used to protect city port.
+
 DE in DE.Duxyzer - stands for Xentrox Digital Ecosystem framework, which DUxyzer is part of.
 
 Duxyzer is written in JavaScript, Typescript, Python, PHP and C++
