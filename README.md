@@ -42,3 +42,5 @@ DE.Duxyzer-CustomTranslator
 DE.Duxyzer-Dockerizer
 DE.Duxyzer-DisplaySet
 DE.Duxyzer-Containerizer
+DE.Duxyzer-SSO
+DE.Duxyzer-AAI
